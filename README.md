@@ -14,4 +14,4 @@ Program reads from STDIN number of student to enrol and outputs names and exam r
 
 # How to run
 
-  `go run`
+  `go run uap.go`
